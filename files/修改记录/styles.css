@@ -165,9 +165,8 @@
 #u14 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:146px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u15_img {
@@ -183,13 +182,15 @@
   top:60px;
   width:673px;
   height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u16 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:6px;
   width:669px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u17_img {
@@ -209,9 +210,8 @@
 #u18 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:173px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u19_img {
